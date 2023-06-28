@@ -19,6 +19,7 @@ We've created this manifesto in order to be transparent on what we're working on
 ## Report an issue or ask for help:
 - Issues: [Here](https://github.com/QuebicApp/manifesto/issues)
 - Help: [Discussions](https://github.com/QuebicApp/manifesto/discussions)
+- Current Milestone: [Space management and discoverability](https://github.com/QuebicApp/manifesto/milestone/1) _due 7/31/2023_
 
 ## Developer or API interest:
 - Wiki: [Here](https://github.com/QuebicApp/manifesto/wiki)
